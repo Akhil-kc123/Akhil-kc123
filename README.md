@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm passionate about using data to uncover insight
 
 - **Predicting Heart Disease with Machine Learning** : (https://github.com/Akhil-kc123/Predicting-heart-disease-using-ML)
 - **Twitter Sentiment Analysis using ML/NLP** : (https://github.com/Akhil-kc123/Sentiment_Analysis_using_Al-ML)
-- **Credit Card Fraud Detection using Logistic Regression ** : (https://github.com/Akhil-kc123/Credit-card-fraud-transactions-detection-using-Logistic-Regression)
+- **Credit Card Fraud Detection using Logistic Regression** : (https://github.com/Akhil-kc123/Credit-card-fraud-transactions-detection-using-Logistic-Regression)
 - **Classification of diverse fruits using ML** : (https://github.com/Akhil-kc123/Image-Classification-Project)
 
 ---
